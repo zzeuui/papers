@@ -1,4 +1,6 @@
 ## Towards Open-Set Object Detection and Discovery (2021)
+[blog](https://blog.naver.com/yoon_03_28/223316864776)
+
 ### 💡Problem
 ‘Open World Object Detection’
 1) identify objects that have not been introduced to it as ‘unknown’, without explicit supervision to do so, and
