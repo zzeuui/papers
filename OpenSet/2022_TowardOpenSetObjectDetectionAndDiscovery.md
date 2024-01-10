@@ -1,4 +1,5 @@
-## Towards Open-Set Object Detection and Discovery
+## Towards Open-Set Object Detection and Discovery (2022)
+
 ### 💡Problem
 propose a framework to detect known objects
 and discover novel visual categories for unknown objects without human effort
