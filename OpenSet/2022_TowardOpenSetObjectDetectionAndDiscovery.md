@@ -14,7 +14,7 @@ Open-set object detection(OSOD)
 ### 💡Method
 Add memory buffer and OCD part
 
-#### OOD
+#### ODR
 - Contrastive Clustering: To learn more discriminative representation for each class
 - memory buffer: save known and unknown information for OCD
 
