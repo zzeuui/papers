@@ -1,4 +1,4 @@
-## Towards Open-Set Object Detection and Discovery (2021)
+## Towards Ope nWorld Object Detection (2021)
 [blog](https://blog.naver.com/yoon_03_28/223316864776)
 
 ### 💡Problem
