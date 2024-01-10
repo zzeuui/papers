@@ -10,8 +10,13 @@ Open-set object detection(OSOD)
 - require incremental learning via a human-in-the-loop approach to label novel classes
 
 ### Method
-add memory buffer and OCD part
-![osodd (1)](https://github.com/zzeuui/papers/assets/38878047/a167e64f-c884-45e4-9c1f-f413ec4a7c86)
+Add memory buffer and OCD part
+- memory buffer: save known and unknown information for OCD
+- OCD
+  -  Representation Learning: class-agnostic augmentation + contrastive learning
+  -  Category Number Estimation & Novel Category Labelling: K-means + K-mean++
+  
+<img src="https://github.com/zzeuui/papers/assets/38878047/a167e64f-c884-45e4-9c1f-f413ec4a7c86" width="70%"/>
 
 ### Experiment
 #### Dataset
