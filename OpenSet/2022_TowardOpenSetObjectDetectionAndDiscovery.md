@@ -1,4 +1,5 @@
 ## Towards Open-Set Object Detection and Discovery (2022)
+[blog](https://blog.naver.com/yoon_03_28/223318043693)
 
 ### 💡Problem
 propose a framework to detect known objects
