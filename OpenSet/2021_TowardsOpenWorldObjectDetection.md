@@ -6,10 +6,10 @@
 when the corresponding labels are progressively received. 
 
 ### Motivation  
-![1](https://github.com/zzeuui/papers/assets/38878047/b1f982b3-8177-416b-b52b-fa994066d441)
+<img src="https://github.com/zzeuui/papers/assets/38878047/b1f982b3-8177-416b-b52b-fa994066d441" width="50%"/>
 
 ### Method
-![OWOD](https://github.com/zzeuui/papers/assets/38878047/40bed31e-726f-4380-bb93-43c1a08bd484)
+<img src="https://github.com/zzeuui/papers/assets/38878047/40bed31e-726f-4380-bb93-43c1a08bd484" width="50%"/>
 
 ### Experiment
 #### Dataset
