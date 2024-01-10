@@ -1,4 +1,4 @@
-## Towards Ope nWorld Object Detection (2021)
+## Towards Open World Object Detection (2021)
 [blog](https://blog.naver.com/yoon_03_28/223316864776)
 
 ### 💡Problem
