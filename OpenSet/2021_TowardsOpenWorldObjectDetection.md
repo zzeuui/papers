@@ -15,7 +15,7 @@ Open-set Learning + Incremental Learning + Detection
 ### 💡Method
 - Faster RCNN: detect interest region, auto-labelling unknowns with RPN
 - Contrastive Clustering: To learn more discriminative representation for each class
-- Energy based unknown identifier: estimates the compatibility between observed variables feature and possible set of output variables labels using a single output scalar.
+- Energy based unknown identifier: estimates the compatibility between known feature and possible set of output variables labels using a single output scalar.
 - Alleviating Forgetting: for Incremental Learning
  
 <img src="https://github.com/zzeuui/papers/assets/38878047/40bed31e-726f-4380-bb93-43c1a08bd484" width="50%"/>
