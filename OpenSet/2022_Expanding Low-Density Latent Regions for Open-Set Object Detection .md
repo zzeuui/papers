@@ -11,7 +11,7 @@ high/low desity latent space를 더욱 분리하여 unknown을 식별하는 Open
 known object는 latent space에서 고밀도 영역을 형성하고, unknown object는 저밀도 영역에 분포된다.  
 즉, unknown object를 식별하기 위해 고밀도와 저밀도 잠재 영역을 적절히 분리하는 것이 중요하다.  
 그러나 기존의 threshold-based methods는 모든 unknown object를 포함할 수 없는 제한된 low density regions만을 가짐
-<img src="https://github.com/zzeuui/papers/assets/38878047/1443f7a4-0782-4718-a410-9683272b85ff" width=70%/>
+<img src="https://github.com/zzeuui/papers/assets/38878047/1443f7a4-0782-4718-a410-9683272b85ff" width=60%/>
 
 ### 💡Method
 **CFL(Contrastive Feature Learner)**: known object의 feature에 대해서 instance level의 contrastive learning을 수행해
