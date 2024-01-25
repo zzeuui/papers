@@ -46,6 +46,8 @@ $U_{M}$의 수를 줄이기 위해 두 데이터셋을 조합함:
 PASCAL VOC 테스트셋 이미지 
 \+ PASCAL VOC의 클래스가 포함되지 않는 MS COCO의 훈련셋에서 23008개의 이미지사용
 
+In OSOD, an image may contain objects from both CK and CU , which is defined as mixed unknown [12]. That means unknown objects will also appear in Dtr but have not been labeled yet. Besides, detectors usually keep a background class Cbg which is easily confused with CU .
+
 #### 2. Wilderness Ratio
 openness 대신 데이터셋의 개방성을 평가할 수 있는 Wilderness Ratio 제안  
 <img src="https://github.com/zzeuui/papers/assets/38878047/c8d4797a-1a53-44a4-bd68-2870157a1502" width=70%\>
